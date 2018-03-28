@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">KmoesIC</string>
+    <string name="app_subname_title">Kamus Digital</string>
+    <string name="app_subname_desc">English - Indonesia | Indonesia - English</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- eng lang -->
+    <string name="hint_search_eng">enter a word</string>
+    <string name="lb_nav_eng_ina">English - Indonesia</string>
+    <string name="lb_desc_eng">Description</string>
+
+    <!-- ina lang -->
+    <string name="hint_search_ina">Masukkan kata</string>
+    <string name="lb_nav_ina_eng">Indonesia - English</string>
+    <string name="lb_desc_ina">Keterangan</string>
+
+    <string name="config_init">config_init</string>
+    <string name="config_kamus_type">config_kamus_type</string>
+    <string name="config_kamus_title">config_kamus_title</string>
+
+    <string name="tb_kamus_eng">tb_kamus_eng</string>
+    <string name="tb_kamus_ina">tb_kamus_ina</string>
 </resources>
